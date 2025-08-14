@@ -6,4 +6,6 @@ seaborn
 scipy
 catboost
 xgboost
+dataclasses
+dill
 #-e .
